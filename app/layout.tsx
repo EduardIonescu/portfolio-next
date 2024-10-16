@@ -48,7 +48,7 @@ export default function RootLayout({
     <html lang="en" className={cx(geistSans.variable, geistMono.variable)}>
       <body
         className={`antialiased flex flex-col items-center justify-center mx-auto
-           mt-2 lg:mt-8 mb-20 lg:mb-40`}
+           mt-2 lg:mt-4 mb-12 lg:mb-16`}
       >
         <main
           className="flex-auto min-w-0 mt-2 md:mt-6 flex flex-col px-6 sm:px-4 

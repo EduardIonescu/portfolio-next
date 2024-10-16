@@ -4,7 +4,7 @@ export const socialLinks = {
 };
 
 export const metaData = {
-  baseUrl: "https://nextfolio-template.vercel.app/",
+  baseUrl: "https://eduardionescu.vercel.app/",
   title: "Eduard Ionescu - FullStack Developer",
   name: "Eduard Ionescu",
   description:

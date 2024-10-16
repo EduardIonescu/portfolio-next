@@ -27,7 +27,6 @@ export default function Projects() {
               <Image
                 width={600}
                 height={300}
-                quality={90}
                 src={project.image}
                 alt=""
                 className="rounded-xl bg-cover"

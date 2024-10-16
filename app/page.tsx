@@ -12,13 +12,13 @@ export default function Home() {
         <div className="prose prose-neutral">
           <p>
             Hi there, I&apos;m Eduard. I enjoy enhancing the functionality of
-            websites I frequently use, build my own and also working on
+            websites I frequently use, building my own and also working on
             microcontroller projects.
           </p>
 
           <p>
             Most recently, I was working for DeepSign GmbH, an AI startup, to
-            help build the future of Multi-factor authentication as a FullStack
+            help build the future of Multi-factor authentication as a Full Stack
             Developer.
           </p>
           <p>

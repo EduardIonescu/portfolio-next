@@ -9,7 +9,7 @@ export const projects: Project[] = [
   {
     title: "AnimeSun",
     href: {
-      live: "https://anime-website-eduardionescu.vercel.app/",
+      live: "https://animesun.vercel.app/",
       github: "https://github.com/EduardIonescu/animeWebsite",
     },
     description:

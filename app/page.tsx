@@ -11,7 +11,7 @@ export default function Home() {
 
         <div className="prose prose-neutral">
           <p>
-            Hi there, I'm Eduard. I enjoy enhancing the functionality of
+            Hi there, I&apos;m Eduard. I enjoy enhancing the functionality of
             websites I frequently use, build my own and also working on
             microcontroller projects.
           </p>
@@ -22,12 +22,12 @@ export default function Home() {
             Developer.
           </p>
           <p>
-            I've always bounced somewhere between frontend, backend and UX,
+            I&apos;ve always bounced somewhere between frontend, backend and UX,
             however the common thread has always been my love for building
             things that people enjoy.
           </p>
           <p>
-            If you're interested in working together, you can view my{" "}
+            If you&apos;re interested in working together, you can view my{" "}
             <a href="/Eduard Ionescu - CV.pdf" target="_blank">
               CV here
             </a>

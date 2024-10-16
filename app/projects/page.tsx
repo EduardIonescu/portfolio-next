@@ -14,7 +14,7 @@ export default function Projects() {
         Personal Projects
       </h1>
       <p className="prose prose-neutral opacity-80">
-        Below is a recent selection of projects that I've worked on.
+        Below is a recent selection of projects that I&apos;ve worked on.
       </p>
       <div className="flex flex-col gap-8 mt-16">
         {projects.map((project) => (

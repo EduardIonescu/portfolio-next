@@ -9,7 +9,6 @@ export const metaData = {
   name: "Eduard Ionescu",
   description:
     "Full Stack Developer specializing in dynamic web applications. Explore my projects and skills in JavaScript, React, Node.js, and more, focused on creating innovative digital solutions.",
-  ogImage: "/opengraph-image.png",
 };
 
 export const experience = {

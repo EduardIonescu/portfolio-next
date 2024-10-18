@@ -6,7 +6,7 @@ import { TbMailFilled } from "react-icons/tb";
 type SocialLinkProps = { href: string; icon: IconType };
 export function SocialLink({ href, icon: Icon }: SocialLinkProps) {
   return (
-    <a href={href} target="_blank" rel="noopener noreferrer">
+    <a href={href} target="_blank" rel="noopener">
       <Icon className="w-6 h-6" />
     </a>
   );

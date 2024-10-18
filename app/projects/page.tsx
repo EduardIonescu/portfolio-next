@@ -41,7 +41,7 @@ export default function Projects() {
               <a
                 href={project.href.live}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener"
                 className="inline-flex items-center justify-center px-4 py-2 
                 text-sm font-medium text-slate-500 border border-slate-500 
                 rounded-full hover:border-slate-700 hover:text-slate-700 
@@ -52,7 +52,7 @@ export default function Projects() {
               <a
                 href={project.href.github}
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener"
                 className="inline-flex items-center justify-center px-4 py-2 
                 text-sm font-medium text-slate-500 border border-slate-500 
                 rounded-full hover:border-slate-700 hover:text-slate-700 

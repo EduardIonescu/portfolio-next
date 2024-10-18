@@ -13,7 +13,7 @@ export default function Footer() {
         className="no-underline"
         href={socialLinks.github}
         target="_blank"
-        rel="noopener noreferrer"
+        rel="noopener"
       >
         {metaData.name}
       </a>

@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import Footer from "./components/footer/footer";
@@ -49,6 +50,7 @@ export default function RootLayout({
         className={`antialiased flex flex-col items-center justify-center mx-auto
            mt-2 lg:mt-4 mb-12 lg:mb-16`}
       >
+        <Analytics />
         <main
           className="flex-auto min-w-0 mt-2 md:mt-6 flex flex-col px-6 sm:px-4 
         md:px-0 max-w-[640px] w-full"
